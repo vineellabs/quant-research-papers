@@ -24,3 +24,16 @@ IAQF site:
 - Combined winning-papers PDF (ours is paper 3): https://iaqf.org/resources/Documents/2020%20Student%20Competition/Winning%20Papers%202020.pdf
 
 The PDF here is the Cornell section extracted unchanged from that combined document.
+
+## Dynamic Asset Allocation in a Regime Switching Model of the Economy — ORIE 5370, Spring 2020
+
+**Graded final project, A+** (`orie5370-2020/Dynamic_Asset_Allocation_Regime_Switching_graded.pdf`)
+
+Nikunj Agarwal and Vineel Yellapantula, for *Optimization Modeling in Finance* (ORIE 5370),
+Cornell University MEng in Financial Engineering, Spring 2020.
+
+A two-state Gaussian Hidden Markov Model fitted with Expectation-Maximization on
+macro-economic indicators identifies market regimes; the regime factor then drives a
+multi-asset Mean-Variance and Mean-CVaR allocation that is compared out of sample against
+static allocations. The PDF is the instructor's returned copy: the handwritten A+ and comment
+on the first page are the grader's.
